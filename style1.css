@@ -817,7 +817,7 @@ footer .text span a {
 }
 
 @media (max-width:968px) {
-  nav.logo{
+  nav .logo{
     position: absolute;
     top: 16px;
     left: 15px;
@@ -830,7 +830,7 @@ footer .text span a {
     flex-direction: column;
   }
 
-  nav.container .links{
+  nav .container .links{
     display: none;
   }
 
@@ -915,6 +915,7 @@ footer .text span a {
     color: #b74b4b;
   }
 }
+
 
 
 
